@@ -1,0 +1,1054 @@
+[
+    {
+        "repository_id": 54346799,
+        "full_name": "public-apis/public-apis",
+        "languages": {
+            "Python": 40507,
+            "Shell": 1352
+        }
+    },
+    {
+        "repository_id": 13491895,
+        "full_name": "EbookFoundation/free-programming-books",
+        "languages": {
+            "Python": 27037,
+            "HTML": 292
+        }
+    },
+    {
+        "repository_id": 83222441,
+        "full_name": "donnemartin/system-design-primer",
+        "languages": {
+            "Python": 57260,
+            "Shell": 1192
+        }
+    },
+    {
+        "repository_id": 21289110,
+        "full_name": "vinta/awesome-python",
+        "languages": {
+            "Python": 185600,
+            "HTML": 41713,
+            "CSS": 38648,
+            "JavaScript": 13958,
+            "Makefile": 569
+        }
+    },
+    {
+        "repository_id": 88011908,
+        "full_name": "practical-tutorials/project-based-learning",
+        "languages": {
+            "Python": 44939
+        }
+    },
+    {
+        "repository_id": 1024554267,
+        "full_name": "NousResearch/hermes-agent",
+        "languages": {
+            "Python": 119216693,
+            "TypeScript": 43261399,
+            "JavaScript": 3130487,
+            "Shell": 817665,
+            "PowerShell": 578569,
+            "TeX": 434546,
+            "CSS": 350697,
+            "Rust": 295808,
+            "Nix": 256971,
+            "HTML": 173290,
+            "BibTeX Style": 156486,
+            "Dockerfile": 42080,
+            "DIGITAL Command Language": 38104,
+            "C": 20524,
+            "MDX": 20409,
+            "Objective-C": 16350,
+            "C#": 8902,
+            "AutoHotkey": 7730,
+            "Go Template": 2740,
+            "Batchfile": 1145,
+            "Makefile": 1054,
+            "Just": 722,
+            "Roff": 638,
+            "Io": 207,
+            "Ruby": 194,
+            "BitBake": 95,
+            "Perl": 79,
+            "Berry": 63,
+            "Charity": 59,
+            "Erlang": 46,
+            "xBase": 46,
+            "NewLisp": 45,
+            "C++": 36,
+            "QMake": 25,
+            "RenderScript": 14,
+            "Nu": 10,
+            "IL Assembly": 9,
+            "LOLCODE": 8,
+            "Common Lisp": 7
+        }
+    },
+    {
+        "repository_id": 63476337,
+        "full_name": "TheAlgorithms/Python",
+        "languages": {
+            "Python": 4611918,
+            "Shell": 7490,
+            "Dockerfile": 372
+        }
+    },
+    {
+        "repository_id": 307260205,
+        "full_name": "yt-dlp/yt-dlp",
+        "languages": {
+            "Python": 10123763,
+            "Makefile": 10313,
+            "Shell": 2875,
+            "Dockerfile": 287,
+            "Batchfile": 47
+        }
+    },
+    {
+        "repository_id": 888092115,
+        "full_name": "microsoft/markitdown",
+        "languages": {
+            "Python": 796109,
+            "Dockerfile": 1267
+        }
+    },
+    {
+        "repository_id": 614765452,
+        "full_name": "Significant-Gravitas/AutoGPT",
+        "languages": {
+            "Python": 41309050,
+            "TypeScript": 18855282,
+            "JavaScript": 196353,
+            "Shell": 172637,
+            "PLpgSQL": 129043,
+            "Jinja": 88066,
+            "PowerShell": 79889,
+            "CSS": 48420,
+            "Dockerfile": 45900,
+            "Batchfile": 17888,
+            "C": 15892,
+            "Makefile": 2963,
+            "HCL": 636,
+            "HTML": 463
+        }
+    },
+    {
+        "repository_id": 2325298,
+        "full_name": "torvalds/linux",
+        "languages": {
+            "C": 1482093355,
+            "Assembly": 9586847,
+            "Rust": 7260161,
+            "Shell": 6623446,
+            "Python": 5204517,
+            "Makefile": 3047432,
+            "Perl": 1118587,
+            "C++": 191265,
+            "SmPL": 185260,
+            "Yacc": 111756,
+            "Roff": 103428,
+            "Awk": 84736,
+            "Lex": 64812,
+            "Jinja": 36976,
+            "UnrealScript": 16071,
+            "Gherkin": 10839,
+            "Linker Script": 10017,
+            "SWIG": 6319,
+            "RPC": 4632,
+            "M4": 3329,
+            "Clojure": 2727,
+            "MATLAB": 2482,
+            "CSS": 1491,
+            "CMake": 495,
+            "sed": 379
+        }
+    },
+    {
+        "repository_id": 111583593,
+        "full_name": "Genymobile/scrcpy",
+        "languages": {
+            "C": 1031409,
+            "Java": 492169,
+            "Shell": 27011,
+            "Roff": 25670,
+            "Meson": 12797,
+            "AIDL": 2558,
+            "VBScript": 212,
+            "Batchfile": 5
+        }
+    },
+    {
+        "repository_id": 184456251,
+        "full_name": "microsoft/PowerToys",
+        "languages": {
+            "C": 30539029,
+            "C#": 24693286,
+            "C++": 10468805,
+            "PowerShell": 1406759,
+            "Python": 158074,
+            "JavaScript": 11105,
+            "HTML": 10230,
+            "HLSL": 9845,
+            "Rich Text Format": 9666,
+            "Batchfile": 3690,
+            "Makefile": 1408
+        }
+    },
+    {
+        "repository_id": 246335987,
+        "full_name": "ventoy/Ventoy",
+        "languages": {
+            "C": 10051958,
+            "Shell": 676613,
+            "HTML": 360257,
+            "C++": 247124,
+            "CSS": 152277,
+            "Makefile": 145577,
+            "JavaScript": 114171,
+            "M4": 71186,
+            "Python": 35443,
+            "DenizenScript": 27311,
+            "Assembly": 17718,
+            "QMake": 4661,
+            "Batchfile": 4623,
+            "Perl": 3376,
+            "Roff": 2751,
+            "Linker Script": 2559,
+            "SCSS": 2187,
+            "Dockerfile": 798
+        }
+    },
+    {
+        "repository_id": 13233158,
+        "full_name": "obsproject/obs-studio",
+        "languages": {
+            "C": 6541161,
+            "C++": 4758326,
+            "CMake": 434854,
+            "Swift": 365217,
+            "Objective-C": 310712,
+            "Objective-C++": 211639,
+            "M": 27484,
+            "Lua": 15107,
+            "Shell": 9455,
+            "SWIG": 7079,
+            "Python": 6201,
+            "Batchfile": 2437,
+            "AppleScript": 2406
+        }
+    },
+    {
+        "repository_id": 156018,
+        "full_name": "redis/redis",
+        "languages": {
+            "C": 10152746,
+            "Tcl": 4769176,
+            "Python": 268889,
+            "Shell": 106883,
+            "Makefile": 47793,
+            "Ruby": 23536,
+            "C++": 5987,
+            "Smarty": 1047,
+            "JavaScript": 953
+        }
+    },
+    {
+        "repository_id": 1614410,
+        "full_name": "FFmpeg/FFmpeg",
+        "languages": {
+            "C": 71845471,
+            "Assembly": 6761595,
+            "Makefile": 1266633,
+            "GLSL": 353270,
+            "C++": 239849,
+            "Cuda": 129506,
+            "Objective-C": 118061,
+            "Shell": 79313,
+            "Perl": 38255,
+            "JavaScript": 34675,
+            "Python": 11523,
+            "CSS": 10294,
+            "HTML": 8500,
+            "Metal": 7961,
+            "Awk": 1912,
+            "Ruby": 1462,
+            "Roff": 1225,
+            "Verilog": 638,
+            "TypeScript": 160
+        }
+    },
+    {
+        "repository_id": 36502,
+        "full_name": "git/git",
+        "languages": {
+            "C": 12263970,
+            "Shell": 9688607,
+            "Perl": 1048396,
+            "Tcl": 844021,
+            "Python": 185320,
+            "Makefile": 173146,
+            "Meson": 143841,
+            "Rust": 60680,
+            "CMake": 50105,
+            "JavaScript": 49713,
+            "M4": 38425,
+            "C++": 19633,
+            "SmPL": 17477,
+            "CSS": 11731,
+            "Batchfile": 9822,
+            "PowerShell": 3157,
+            "ReScript": 92
+        }
+    },
+    {
+        "repository_id": 36836475,
+        "full_name": "tmux/tmux",
+        "languages": {
+            "C": 3155908,
+            "Shell": 1372200,
+            "Roff": 232947,
+            "Yacc": 39832,
+            "Python": 32115,
+            "M4": 29273,
+            "Awk": 8608,
+            "BitBake": 7950,
+            "Makefile": 7641,
+            "Perl": 1660,
+            "NASL": 285
+        }
+    },
+    {
+        "repository_id": 1166102148,
+        "full_name": "DeusData/codebase-memory-mcp",
+        "languages": {
+            "C": 82856795,
+            "TypeScript": 6700188,
+            "C++": 3825040,
+            "JavaScript": 2776086,
+            "Shell": 1490939,
+            "Python": 909160,
+            "CSS": 295894,
+            "Go": 114527,
+            "PowerShell": 75152,
+            "Nix": 6538,
+            "Roff": 3926,
+            "Objective-C": 3794,
+            "HTML": 3447,
+            "Dockerfile": 3135,
+            "Assembly": 2005,
+            "Ruby": 1936
+        }
+    },
+    {
+        "repository_id": 45717250,
+        "full_name": "tensorflow/tensorflow",
+        "languages": {
+            "C++": 103455845,
+            "Python": 47454874,
+            "MLIR": 12391567,
+            "Starlark": 8229610,
+            "HTML": 7662661,
+            "Go": 2176921,
+            "C": 1245872,
+            "Java": 1180643,
+            "Jupyter Notebook": 797187,
+            "Shell": 621557,
+            "Go Template": 553786,
+            "Objective-C++": 379589,
+            "Objective-C": 170182,
+            "CMake": 152148,
+            "Smarty": 117906,
+            "Swift": 81677,
+            "Dockerfile": 36129,
+            "Ruby": 8898,
+            "Batchfile": 7548,
+            "Perl": 7536,
+            "Linker Script": 5831,
+            "Cython": 5280,
+            "Makefile": 2845,
+            "CSS": 2761,
+            "PowerShell": 2350,
+            "Vim Snippet": 58
+        }
+    },
+    {
+        "repository_id": 612354784,
+        "full_name": "ggml-org/llama.cpp",
+        "languages": {
+            "C++": 25233430,
+            "C": 7429106,
+            "Python": 3380676,
+            "Cuda": 2242977,
+            "TypeScript": 1953497,
+            "Svelte": 1076876,
+            "HTML": 775814,
+            "Metal": 670920,
+            "Jinja": 559496,
+            "GLSL": 387343,
+            "CMake": 318799,
+            "Shell": 300903,
+            "WGSL": 227982,
+            "Go Template": 226163,
+            "Objective-C": 131360,
+            "Dockerfile": 50069,
+            "JavaScript": 27179,
+            "CSS": 26333,
+            "Nix": 24517,
+            "PowerShell": 3823,
+            "Linker Script": 1729,
+            "MDX": 1633,
+            "Makefile": 1554,
+            "Batchfile": 802,
+            "SCSS": 415,
+            "Assembly": 396
+        }
+    },
+    {
+        "repository_id": 29028775,
+        "full_name": "react/react-native",
+        "languages": {
+            "C++": 7123083,
+            "Kotlin": 4612537,
+            "JavaScript": 3879964,
+            "Objective-C++": 1995964,
+            "Objective-C": 951985,
+            "Ruby": 631603,
+            "Java": 341183,
+            "Python": 294424,
+            "CMake": 173889,
+            "C": 100356,
+            "TypeScript": 84730,
+            "Shell": 62447,
+            "Swift": 47769,
+            "HTML": 1473,
+            "Smarty": 327
+        }
+    },
+    {
+        "repository_id": 9384267,
+        "full_name": "electron/electron",
+        "languages": {
+            "C++": 5469431,
+            "TypeScript": 3848798,
+            "Objective-C++": 607403,
+            "JavaScript": 270341,
+            "Python": 169807,
+            "Objective-C": 63759,
+            "Shell": 44949,
+            "HTML": 14619,
+            "C#": 4535,
+            "C": 4512,
+            "Go Template": 3380,
+            "CSS": 2458,
+            "PowerShell": 624
+        }
+    },
+    {
+        "repository_id": 15634981,
+        "full_name": "godotengine/godot",
+        "languages": {
+            "C++": 63907133,
+            "C#": 2425915,
+            "Java": 1663513,
+            "C": 1460832,
+            "GLSL": 1337293,
+            "Objective-C++": 905241,
+            "Python": 724773,
+            "Kotlin": 492987,
+            "GDScript": 334560,
+            "JavaScript": 298285,
+            "Swift": 17385,
+            "Shell": 7934,
+            "CMake": 1116,
+            "GAP": 66
+        }
+    },
+    {
+        "repository_id": 100060912,
+        "full_name": "microsoft/terminal",
+        "languages": {
+            "C++": 12576419,
+            "C#": 528448,
+            "C": 243864,
+            "PowerShell": 147569,
+            "Batchfile": 72217,
+            "HLSL": 21360,
+            "Python": 8329,
+            "Roff": 7142,
+            "Jupyter Notebook": 4741,
+            "CMake": 4161,
+            "JavaScript": 894,
+            "HTML": 552
+        }
+    },
+    {
+        "repository_id": 5108051,
+        "full_name": "opencv/opencv",
+        "languages": {
+            "C++": 41975864,
+            "Python": 1938149,
+            "C": 1356798,
+            "CMake": 1049970,
+            "Java": 759733,
+            "Cuda": 466037,
+            "Objective-C++": 395520,
+            "Swift": 296406,
+            "JavaScript": 248141,
+            "Objective-C": 101190,
+            "CSS": 66842,
+            "HTML": 61563,
+            "Shell": 25418,
+            "PowerShell": 14591,
+            "TeX": 6256,
+            "Kotlin": 6201,
+            "Prolog": 872,
+            "Dockerfile": 309,
+            "Batchfile": 80
+        }
+    },
+    {
+        "repository_id": 1181927,
+        "full_name": "bitcoin/bitcoin",
+        "languages": {
+            "C++": 15201200,
+            "Python": 4561988,
+            "C": 3363791,
+            "CMake": 278208,
+            "Shell": 213689,
+            "Makefile": 109245,
+            "Sage": 59880,
+            "M4": 55751,
+            "Rust": 42390,
+            "Assembly": 28405,
+            "Scheme": 23756,
+            "HTML": 21831,
+            "Cap'n Proto": 16569,
+            "Nix": 5675,
+            "Objective-C++": 5510,
+            "Dockerfile": 5092
+        }
+    },
+    {
+        "repository_id": 22887094,
+        "full_name": "tesseract-ocr/tesseract",
+        "languages": {
+            "C++": 7704942,
+            "CMake": 87867,
+            "Java": 74134,
+            "Makefile": 70130,
+            "NSIS": 53666,
+            "C": 38479,
+            "Shell": 29333,
+            "M4": 3378,
+            "Python": 2520
+        }
+    },
+    {
+        "repository_id": 619959033,
+        "full_name": "nomic-ai/gpt4all",
+        "languages": {
+            "C++": 817324,
+            "QML": 476639,
+            "Python": 119931,
+            "CMake": 84613,
+            "JavaScript": 50906,
+            "C": 14523,
+            "Qt Script": 5374,
+            "Shell": 3489,
+            "Makefile": 843,
+            "Batchfile": 747,
+            "PowerShell": 526,
+            "Objective-C++": 313,
+            "CSS": 80
+        }
+    },
+    {
+        "repository_id": 173228436,
+        "full_name": "NationalSecurityAgency/ghidra",
+        "languages": {
+            "Java": 103573317,
+            "C++": 7189614,
+            "HTML": 4897273,
+            "C": 1815753,
+            "Python": 1705907,
+            "Shell": 417373,
+            "Yacc": 129414,
+            "Xtend": 117166,
+            "GAP": 104188,
+            "PowerShell": 79030,
+            "Assembly": 77536,
+            "TeX": 58985,
+            "Batchfile": 58790,
+            "Hack": 31420,
+            "Objective-C": 27343,
+            "Rust": 24951,
+            "Lex": 22514,
+            "XSLT": 20203,
+            "CSS": 18351,
+            "Makefile": 15215,
+            "GDB": 3854,
+            "Dockerfile": 2353,
+            "Haskell": 453,
+            "Lua": 180,
+            "Linker Script": 170,
+            "Pawn": 101
+        }
+    },
+    {
+        "repository_id": 22790488,
+        "full_name": "iluwatar/java-design-patterns",
+        "languages": {
+            "Java": 5257775,
+            "HTML": 16836,
+            "CSS": 9958,
+            "PowerShell": 3862,
+            "Shell": 2729
+        }
+    },
+    {
+        "repository_id": 127988011,
+        "full_name": "macrozheng/mall",
+        "languages": {
+            "Java": 2742757,
+            "Shell": 2324,
+            "Dockerfile": 370
+        }
+    },
+    {
+        "repository_id": 6296790,
+        "full_name": "spring-projects/spring-boot",
+        "languages": {
+            "Java": 25762335,
+            "Kotlin": 58672,
+            "HTML": 41868,
+            "JavaScript": 33592,
+            "Shell": 11614,
+            "Groovy": 11305,
+            "Ruby": 8086,
+            "FreeMarker": 3592,
+            "Batchfile": 2740,
+            "Go Template": 1450,
+            "Smarty": 1287,
+            "Mustache": 448,
+            "Dockerfile": 287,
+            "Vim Snippet": 135,
+            "CSS": 115
+        }
+    },
+    {
+        "repository_id": 151834062,
+        "full_name": "doocs/advanced-java",
+        "languages": {
+            "Java": 180
+        }
+    },
+    {
+        "repository_id": 507775,
+        "full_name": "elastic/elasticsearch",
+        "languages": {
+            "Java": 311912899,
+            "C++": 10904181,
+            "Groovy": 888786,
+            "StringTemplate": 442502,
+            "TypeScript": 370673,
+            "Shell": 256600,
+            "ANTLR": 102217,
+            "Dockerfile": 44844,
+            "Makefile": 20527,
+            "Batchfile": 20216,
+            "Python": 14404,
+            "PowerShell": 8151,
+            "C": 7096,
+            "CSS": 5424,
+            "Emacs Lisp": 3341,
+            "AMPL": 3121,
+            "HTML": 2186,
+            "JavaScript": 1268,
+            "Mustache": 58,
+            "FreeMarker": 45
+        }
+    },
+    {
+        "repository_id": 160640094,
+        "full_name": "MisterBooo/LeetCodeAnimation",
+        "languages": {
+            "Java": 366443,
+            "Python": 2552,
+            "C++": 439
+        }
+    },
+    {
+        "repository_id": 63477660,
+        "full_name": "TheAlgorithms/Java",
+        "languages": {
+            "Java": 5127699,
+            "Dockerfile": 2000
+        }
+    },
+    {
+        "repository_id": 81975372,
+        "full_name": "kdn251/interviews",
+        "languages": {
+            "Java": 674404
+        }
+    },
+    {
+        "repository_id": 44804216,
+        "full_name": "termux/termux-app",
+        "languages": {
+            "Java": 2142843,
+            "C++": 23983,
+            "C": 7918,
+            "Shell": 3111,
+            "Makefile": 504,
+            "Assembly": 385
+        }
+    },
+    {
+        "repository_id": 1136590548,
+        "full_name": "affaan-m/ECC",
+        "languages": {
+            "JavaScript": 11716986,
+            "Rust": 1963812,
+            "Python": 1696712,
+            "Shell": 244045,
+            "TypeScript": 115947,
+            "Swift": 8371,
+            "Lua": 4268,
+            "CSS": 4037,
+            "PowerShell": 2752,
+            "Dockerfile": 2586
+        }
+    },
+    {
+        "repository_id": 10270250,
+        "full_name": "react/react",
+        "languages": {
+            "JavaScript": 5700097,
+            "Rust": 3025843,
+            "TypeScript": 2609522,
+            "HTML": 116611,
+            "CSS": 95930,
+            "CoffeeScript": 18688,
+            "Shell": 15779
+        }
+    },
+    {
+        "repository_id": 126577260,
+        "full_name": "trekhleb/javascript-algorithms",
+        "languages": {
+            "JavaScript": 736623
+        }
+    },
+    {
+        "repository_id": 121395510,
+        "full_name": "CyC2018/CS-Notes",
+        "languages": {
+            "JavaScript": 112322,
+            "Python": 60125,
+            "CSS": 30632,
+            "HTML": 3801
+        }
+    },
+    {
+        "repository_id": 1266797999,
+        "full_name": "DietrichGebert/ponytail",
+        "languages": {
+            "JavaScript": 306023,
+            "Python": 157958,
+            "TypeScript": 157343,
+            "PowerShell": 885,
+            "Shell": 696
+        }
+    },
+    {
+        "repository_id": 132464395,
+        "full_name": "Snailclimb/JavaGuide",
+        "languages": {
+            "JavaScript": 11023
+        }
+    },
+    {
+        "repository_id": 6498492,
+        "full_name": "airbnb/javascript",
+        "languages": {
+            "JavaScript": 80502
+        }
+    },
+    {
+        "repository_id": 70107786,
+        "full_name": "vercel/next.js",
+        "languages": {
+            "JavaScript": 39933966,
+            "TypeScript": 28962075,
+            "Rust": 13109169,
+            "MDX": 652942,
+            "CSS": 581955,
+            "Shell": 42021,
+            "Go": 14477,
+            "Python": 11530,
+            "SCSS": 8421,
+            "Dockerfile": 7240,
+            "C++": 3172,
+            "HTML": 2594,
+            "Batchfile": 579,
+            "WebAssembly": 497,
+            "Assembly": 375,
+            "Sass": 322,
+            "Pug": 49,
+            "C": 32,
+            "Pawn": 26
+        }
+    },
+    {
+        "repository_id": 112507086,
+        "full_name": "Chalarangelo/30-seconds-of-code",
+        "languages": {
+            "JavaScript": 262793,
+            "SCSS": 106552,
+            "Astro": 33184,
+            "TypeScript": 4865,
+            "CSS": 969,
+            "Shell": 579
+        }
+    },
+    {
+        "repository_id": 27193779,
+        "full_name": "nodejs/node",
+        "languages": {
+            "JavaScript": 23363450,
+            "C++": 7928181,
+            "Python": 2662917,
+            "C": 669385,
+            "HTML": 163390,
+            "Shell": 141206,
+            "Makefile": 64986,
+            "Batchfile": 53127,
+            "Nix": 30100,
+            "Perl": 16641,
+            "Emacs Lisp": 14363,
+            "R": 8037,
+            "Go Template": 2021,
+            "TypeScript": 1288
+        }
+    },
+    {
+        "repository_id": 19415064,
+        "full_name": "ossu/computer-science",
+        "languages": {
+            "HTML": 991
+        }
+    },
+    {
+        "repository_id": 32484381,
+        "full_name": "ripienaar/free-for-dev",
+        "languages": {
+            "HTML": 3556
+        }
+    },
+    {
+        "repository_id": 419347358,
+        "full_name": "PKUFlyingPig/cs-self-learning",
+        "languages": {
+            "HTML": 1639
+        }
+    },
+    {
+        "repository_id": 1359648985,
+        "full_name": "eternity4719/HowToLiveBetter",
+        "languages": {
+            "HTML": 151983,
+            "JavaScript": 102292,
+            "Typst": 3349,
+            "CSS": 912
+        }
+    },
+    {
+        "repository_id": 1087192965,
+        "full_name": "shanraisshan/claude-code-best-practice",
+        "languages": {
+            "HTML": 593729,
+            "Python": 28999
+        }
+    },
+    {
+        "repository_id": 1212769188,
+        "full_name": "cathrynlavery/diagram-design",
+        "languages": {
+            "HTML": 4365211,
+            "Python": 2710880,
+            "Mermaid": 1178
+        }
+    },
+    {
+        "repository_id": 240215314,
+        "full_name": "docker/awesome-compose",
+        "languages": {
+            "HTML": 51781,
+            "Dockerfile": 23675,
+            "Rust": 13633,
+            "TypeScript": 13374,
+            "Java": 8869,
+            "Python": 8510,
+            "JavaScript": 7741,
+            "C#": 5497,
+            "CSS": 5011,
+            "Go": 4437,
+            "Vue": 2534,
+            "SCSS": 537,
+            "FreeMarker": 207,
+            "Shell": 121,
+            "PHP": 46
+        }
+    },
+    {
+        "repository_id": 62156403,
+        "full_name": "QSCTech/zju-icicles",
+        "languages": {
+            "HTML": 2236332,
+            "C": 460729,
+            "CSS": 353415,
+            "C++": 137310,
+            "Python": 86176,
+            "TeX": 66161,
+            "Verilog": 49342,
+            "Assembly": 46543,
+            "Java": 43550,
+            "Scala": 27567,
+            "Shell": 11540,
+            "Perl": 8662,
+            "Tcl": 5685,
+            "Makefile": 5109,
+            "Typst": 4897,
+            "MATLAB": 4137,
+            "Batchfile": 3314,
+            "Yacc": 3205,
+            "Lex": 1506,
+            "CMake": 278
+        }
+    },
+    {
+        "repository_id": 352933140,
+        "full_name": "ToolJet/ToolJet",
+        "languages": {
+            "HTML": 51391678,
+            "JavaScript": 16487794,
+            "TypeScript": 8866503,
+            "SCSS": 1523330,
+            "Dockerfile": 127414,
+            "Shell": 98771,
+            "Handlebars": 80224,
+            "Python": 26713,
+            "CSS": 26154,
+            "EJS": 17848,
+            "MDX": 11300,
+            "HCL": 2493,
+            "Swift": 497,
+            "Batchfile": 61
+        }
+    },
+    {
+        "repository_id": 109484365,
+        "full_name": "fengdu78/Coursera-ML-AndrewNg-Notes",
+        "languages": {
+            "HTML": 5765985,
+            "Jupyter Notebook": 1569078,
+            "Python": 9834
+        }
+    },
+    {
+        "repository_id": 2561582,
+        "full_name": "animate-css/animate.css",
+        "languages": {
+            "CSS": 31024,
+            "HTML": 9449,
+            "JavaScript": 5248,
+            "Shell": 58
+        }
+    },
+    {
+        "repository_id": 27574418,
+        "full_name": "ryanoasis/nerd-fonts",
+        "languages": {
+            "CSS": 583297,
+            "Shell": 513416,
+            "Python": 260466,
+            "Dockerfile": 2037
+        }
+    },
+    {
+        "repository_id": 1700621,
+        "full_name": "necolas/normalize.css",
+        "languages": {
+            "CSS": 6138
+        }
+    },
+    {
+        "repository_id": 50264296,
+        "full_name": "jgthms/bulma",
+        "languages": {
+            "CSS": 2548041,
+            "SCSS": 290237,
+            "JavaScript": 3952,
+            "Shell": 969,
+            "Sass": 164
+        }
+    },
+    {
+        "repository_id": 1222917575,
+        "full_name": "Nutlope/hallmark",
+        "languages": {
+            "CSS": 1740711,
+            "HTML": 1473215,
+            "JavaScript": 761032,
+            "Python": 43149,
+            "TypeScript": 2644,
+            "Vue": 698
+        }
+    },
+    {
+        "repository_id": 41058054,
+        "full_name": "isocpp/CppCoreGuidelines",
+        "languages": {
+            "CSS": 17993,
+            "Python": 9030,
+            "HTML": 7972,
+            "Makefile": 5692
+        }
+    },
+    {
+        "repository_id": 313330998,
+        "full_name": "bradtraversy/50projects50days",
+        "languages": {
+            "CSS": 64051,
+            "HTML": 52697,
+            "JavaScript": 49877
+        }
+    },
+    {
+        "repository_id": 508131663,
+        "full_name": "hehonghui/awesome-english-ebooks",
+        "languages": {
+            "CSS": 91
+        }
+    },
+    {
+        "repository_id": 69629434,
+        "full_name": "FreeCodeCampChina/freecodecamp.cn",
+        "languages": {
+            "CSS": 3311694,
+            "JavaScript": 821729,
+            "HTML": 244274
+        }
+    },
+    {
+        "repository_id": 122692377,
+        "full_name": "houshanren/hangzhou_house_knowledge",
+        "languages": {
+            "CSS": 160321,
+            "HTML": 120543
+        }
+    }
+]
