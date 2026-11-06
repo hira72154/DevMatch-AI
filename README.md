@@ -1,60 +1,155 @@
 # DevMatch AI – Smart Open-Source Contribution & Repository Intelligence System
 
-## Project Description
+**Discover the right open-source projects based on your skills.**
 
-DevMatch AI is a data-driven platform designed to help students and developers discover suitable open-source projects on GitHub based on their programming skills, experience levels, and interests.
+## 📌 Project Overview
 
-## Problem Statement
+DevMatch AI is a data-driven platform that helps students and developers discover suitable open-source projects on GitHub based on their programming skills and interests.
 
-GitHub hosts millions of open-source repositories, making it difficult for beginners to identify active, reliable, and beginner-friendly projects. Developers often struggle to find suitable contribution opportunities and evaluate repository quality.
+It analyzes repository activity, popularity, maintenance status, and beginner-friendly issues to generate meaningful repository insights and recommendations.
 
-## Proposed Solution
+## 🎯 Problem Statement
 
-DevMatch AI aims to provide an intelligent repository analysis and recommendation system that evaluates GitHub projects based on programming languages, maintenance activity, popularity, and beginner-friendly issues.
+GitHub contains millions of open-source repositories, making it difficult for beginners to identify active, reliable, and beginner-friendly projects. Developers also face challenges in finding relevant contribution opportunities and evaluating repository health.
 
-The system will generate Repository Health Scores and Contribution Opportunity Scores to help users make informed decisions when selecting open-source projects.
+## 💡 Proposed Solution
 
-## Data Source and ETL Process
+DevMatch AI provides an intelligent repository analysis and recommendation system that:
 
-The project uses the free GitHub REST API to extract public repository information, including repository details, programming languages, stars, forks, activity timestamps, and issue details.
+- Evaluates repository health and maintenance activity.
+- Identifies beginner-friendly contribution opportunities.
+- Recommends repositories based on programming skills.
+- Presents insights through an interactive dashboard.
 
-The ETL pipeline has been implemented using:
+## ⚙️ ETL Pipeline
 
-- **Extract:** Fetching repository, language, and issue data through the GitHub REST API.
-- **Transform:** Cleaning and preprocessing data using Python and Pandas.
-- **Validate:** Validating data records using Pydantic.
-- **Load:** Storing cleaned and validated data in an SQLite database, with CSV exports for analysis.
+The project uses the **GitHub REST API** to collect public repository, programming language, and issue-related data.
 
-## Exploratory Data Analysis (EDA)
+The ETL pipeline consists of four stages:
 
-The project will analyze:
+1. **Extract:** Fetches repository details, languages, stars, forks, activity timestamps, and issues using the GitHub API.
+2. **Transform:** Cleans and preprocesses collected data using Python and Pandas.
+3. **Validate:** Validates data records using Pydantic.
+4. **Load:** Stores processed data in an SQLite database and exports CSV files for further analysis.
 
-- Programming language distributions.
+## 📊 Exploratory Data Analysis (EDA)
+
+EDA is performed using Jupyter Notebook to understand the collected dataset through:
+
+- Programming language distribution.
 - Repository popularity based on stars and forks.
-- Repository maintenance and activity.
-- Relationship between stars and forks.
-- Beginner-friendly contribution opportunities.
+- Repository maintenance and activity analysis.
+- Correlation between stars and forks.
+- Beginner-friendly issue distribution.
+- Data quality checks and missing-value analysis.
 
-## Key Features (Planned)
+## ✨ Key Features
 
-An interactive Streamlit dashboard featuring:
+1. **Beginner-Friendly Project Finder** – Helps users identify repositories with contribution opportunities.
+2. **Repository Health Score (0–100)** – Evaluates repository activity, popularity, and engagement.
+3. **Contribution Opportunity Score** – Measures available beginner-friendly issues and contribution opportunities.
+4. **Skill-Based Recommendation System** – Recommends repositories based on users' programming languages and skills.
+5. **Interactive Streamlit Dashboard** – Displays repository insights, charts, filters, scores, and recommendations.
 
-1. Beginner-Friendly Open-Source Project Finder
-2. Repository Health Score (0–100)
-3. Contribution Opportunity Score
-4. Skill-Based Repository Recommendation System
-5. Interactive EDA Charts and Repository Comparisons
+## 🧮 Scoring Methodology
 
-## Expected Outcome
+| Component | Evaluation Criteria |
+|---|---|
+| Repository Health | Activity (50%), Popularity (25%), Engagement (25%) |
+| Contribution Opportunity | Beginner-Friendly Issues (40%), Good First Issues (30%), Help Wanted (20%), Activity (10%) |
+| Skill Recommendation | Skill Match (60%), Repository Health (20%), Contribution Opportunity (20%) |
 
-A free, data-driven platform that helps students and developers discover suitable open-source projects and contribution opportunities through explainable, rule-based recommendations and meaningful data analysis.
+The system uses explainable, rule-based scoring rather than a trained machine learning model.
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 - **Programming Language:** Python
 - **Data Extraction:** GitHub REST API
-- **Data Processing:** Pandas
+- **Data Processing:** Pandas, NumPy
 - **Data Validation:** Pydantic
 - **Database:** SQLite
 - **Data Analysis:** Jupyter Notebook
-- **Dashboard:** Streamlit (Planned)
+- **Dashboard:** Streamlit
+- **Visualization:** Altair
+- **Version Control:** Git & GitHub
+
+## 📁 Project Structure
+
+```text
+DevMatch-AI/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── database/
+│   └── devmatch.db
+│
+├── notebook/
+│   ├── 01_data_quality_checks.ipynb
+│   └── 02_exploratory_data_analysis.ipynb
+│
+├── src/
+│   ├── extract.py
+│   ├── transform.py
+│   ├── validate.py
+│   ├── load.py
+│   ├── health_score.py
+│   ├── contribution_score.py
+│   └── recommendation.py
+│
+├── .streamlit/
+│   └── config.toml
+│
+├── app.py
+└── README.md
+```
+
+## 🚀 Installation & Setup
+
+**1. Clone the repository**
+
+```bash
+git clone <YOUR_GITHUB_REPOSITORY_URL>
+cd DevMatch-AI
+```
+
+**2. Activate your virtual environment**
+
+```bash
+# Windows PowerShell
+.\.venv\Scripts\Activate.ps1
+```
+
+**3. Install dependencies**
+
+```bash
+pip install pandas numpy streamlit altair jupyter pydantic requests
+```
+
+**4. Run the Streamlit dashboard**
+
+```bash
+streamlit run app.py
+```
+
+Open the local URL displayed in your terminal to access the dashboard.
+
+## 📈 Expected Outcome
+
+DevMatch AI provides a free and data-driven way for students and developers to explore open-source repositories, understand repository health, discover contribution opportunities, and find projects that match their programming skills.
+
+## ⚠️ Limitations
+
+- Recommendations currently use exact programming language matching.
+- Scoring is rule-based and depends on the available GitHub data.
+- Stars and forks indicate popularity and engagement, not guaranteed code quality.
+- Repository scores are indicators to support decisions, not definitive quality ratings.
+
+## 👥 Contributors
+
+Developed as an academic project focused on data engineering, exploratory data analysis, repository intelligence, and recommendation systems.
+
+---
+
+**DevMatch AI – Making Open-Source Contributions Easier and Smarter.**
